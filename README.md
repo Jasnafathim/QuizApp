@@ -44,5 +44,5 @@ This is a simple and interactive **Quiz App** built using **HTML, CSS, and JavaS
 ![image alt](screenshots/3-Wronganswer.png)
 
 - **Score**
-![image alt](screenshots/3-Score.png)
+![image alt](screenshots/4-Score.png)
 
