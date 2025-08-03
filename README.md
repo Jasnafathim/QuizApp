@@ -20,6 +20,10 @@ This is a simple and interactive **Quiz App** built using **HTML, CSS, and JavaS
 5. After finishing all questions, the score is shown.
 6. User can restart the quiz with the "Play Again" button.
 
+ ## 🚀 Live Demo
+
+🔗 [Live on GitHub Pages](https://jasnafathim.github.io/QuizApp/)
+
 ## Tech Used
 
 - HTML  
